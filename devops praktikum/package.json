@@ -1,0 +1,12 @@
+{
+  "name": "devsecops-praktikum",
+  "version": "1.0.0",
+  "description": "Praktikum DevSecOps menggunakan GitHub Actions",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "lodash": "4.17.20"
+  }
+}
